@@ -19,6 +19,8 @@ function Sidebar() {
     <StyledSidebar>
       <Logo />
       <MainNav />
+
+      <Uploader.jsx />
     </StyledSidebar>
   );
 }
